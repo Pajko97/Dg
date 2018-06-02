@@ -20,6 +20,8 @@ body {
 .wrapper {
     display:flex;
     flex-direction:column;
+    width:90%;
+    margin-left:5%;
     color: var(--textColor);
     text-decoration-style: none;
     font-family: Roboto;
